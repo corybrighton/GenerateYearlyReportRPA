@@ -62,7 +62,7 @@
         </ui:CursorPosition>
       </ui:Click.CursorPosition>
       <ui:Click.Target>
-        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="ac0c896660c7a58fe5ce84430d9d4ed5" Selector="&lt;html title='ACME System 1 - Work Items' /&gt;&lt;webctrl aaname='ACME System 1' tag='A' /&gt;">
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="ac0c896660c7a58fe5ce84430d9d4ed5" Selector="&lt;html title='ACME System 1 - *' idx='1' /&gt;&lt;webctrl aaname='ACME System 1' tag='A' /&gt;">
           <ui:Target.TimeoutMS>
             <InArgument x:TypeArguments="x:Int32" />
           </ui:Target.TimeoutMS>
